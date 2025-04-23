@@ -1,0 +1,18 @@
+.EasterBunny {
+    width:350px;
+    height:300px;
+}
+body{
+    background-color:rgba(252, 211, 183, 1);
+    font-family:sans-serif;
+}
+p {
+    color:red;
+    border:2px solid black;
+    border-radius:50px;
+    padding:20px;
+}
+.NotFatBunny {
+    width:300px;
+    height:300px;
+}
